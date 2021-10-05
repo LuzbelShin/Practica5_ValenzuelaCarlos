@@ -15,4 +15,8 @@
     <color name="last_pink">#EF029D</color>
     <color name="dusty_white">#EBEBEB</color>
 
+
+    <color name="productNameColor">#B60089</color>
+    <color name="productDescriptionColor">#262525</color>
+    <color name="productPriceColor">#9E2E81</color>
 </resources>

@@ -19,4 +19,9 @@
     <string name="combos">Combos</string>
     <string name="custom">Custom</string>
 
+    <string name="contentDescription">Product picture</string>
+    <string name="productDescription">Product descirption</string>
+    <string name="productName">Product Name</string>
+    <string name="productCost">$ dlls</string>
+
 </resources>
